@@ -68,13 +68,4 @@
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginTop="16dp"/>
 
-    <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/floatingActionButton2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:clickable="true"
-        app:srcCompat="@android:drawable/ic_menu_help"
-        tools:layout_editor_absoluteX="306dp"
-        tools:layout_editor_absoluteY="658dp" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
